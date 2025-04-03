@@ -1,0 +1,21 @@
+# Ignore IDE/editor folders
+.idea/
+.vscode/
+
+# Ignore Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Ignore OS files
+Thumbs.db
+.DS_Store
+
+# Ignore compiled files
+*.exe
+*.o
+*.out
+
+# Ignore test builds or backups
+*~
+*.bak
